@@ -1,16 +1,5 @@
 # flame_tutorial_game
 
-A new Flutter project.
+충돌 감지 부분에 문제가 있고.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+충돌시 이미지가 깜빡이도록 하려했으나 제대로 동작하지 않음.  - 이 부분에서 멈춰서 개발 중단. 흥미를 잃음
